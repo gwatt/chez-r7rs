@@ -1,0 +1,4 @@
+#!/usr/bin/env scheme
+
+(make-boot-file "r7rs.boot" '("petite.boot") "r7rs.ss")
+(exit)
